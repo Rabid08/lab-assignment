@@ -1,0 +1,9 @@
+body{
+    background-image: url("tree.jpg");
+    background-size: 1500px 700px;
+    font-size: 25px;
+    color: white;
+}
+h2 {
+    font-size: 45px;
+}
